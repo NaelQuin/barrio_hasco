@@ -1,0 +1,14 @@
+/**
+ * @file
+ * Subtheme specific CSS.
+ */
+
+ .main-content {
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+table th {
+    color: #000;
+    font-weight: bold;
+}
